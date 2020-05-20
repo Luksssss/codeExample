@@ -1,0 +1,5 @@
+# Дампы из AutoCAD
+*.json
+*.log
+/__pycache__
+/calc

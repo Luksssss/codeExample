@@ -1,0 +1,11 @@
+cycler==0.10.0
+matplotlib==2.0.0
+numpy==1.11.3
+psycopg2==2.6.2
+pyparsing==2.2.0
+python-dateutil==2.6.0
+pytz==2016.10
+rdp==0.8
+scipy==0.18.1
+Shapely==1.5.17.post1
+six==1.10.0
